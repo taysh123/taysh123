@@ -1,6 +1,6 @@
 # Hi, I'm Tay Shofer 👋
 
-**Software Engineer · CS graduate (HIT) · Building products end-to-end**
+**Software Engineer · CS graduate · Building products end-to-end**
 
 I design and ship full systems — backend, frontend, data, and the infrastructure around them. I care about **structural correctness**: making the code enforce guarantees instead of relying on discipline. Most of what I build, I take all the way to a running, tested, deployed product.
 
